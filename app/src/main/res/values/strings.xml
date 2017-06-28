@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MivtzaimFinalProjV1</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="main_nav_header">אפליקציית מבצעים</string>
+    <string name="second_nav_header">עושים נחת רוח לרבי</string>
+    <string name="hakdasha_navbar">לע"נ משה בן שמחה</string>
+    <string name="sign_out">Sign Out</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

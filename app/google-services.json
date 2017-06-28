@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "868345531651",
+    "firebase_url": "https://mivtzaimfinalprojv1-250d1.firebaseio.com",
+    "project_id": "mivtzaimfinalprojv1-250d1",
+    "storage_bucket": "mivtzaimfinalprojv1-250d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868345531651:android:1840d93a57b7e9da",
+        "android_client_info": {
+          "package_name": "example.haim.mivtzaimfinalprojv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868345531651-362bokjfpt67utujcr5tqi0mraetmlp6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "example.haim.mivtzaimfinalprojv1",
+            "certificate_hash": "6f0bc57ccae5c8f1e0d07d7b160028b44ce72bc1"
+          }
+        },
+        {
+          "client_id": "868345531651-6uuacqfr40g14k92luimmc8gc4f54gqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtCnNRW6c3mA0p3X9F2UQ6GB79a4cAPmw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868345531651-6uuacqfr40g14k92luimmc8gc4f54gqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
